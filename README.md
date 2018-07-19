@@ -1,5 +1,4 @@
 # Serial-Arduino-Scope
----
 
 ## Goals :
 
